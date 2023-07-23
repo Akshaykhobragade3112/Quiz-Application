@@ -4,4 +4,3 @@ Countdown Timer: Time limit for answering each question.Visually appealing and u
 Score Display: Overall score calculation and display.Immediate response on answers.
 
 
-Click to website : https://akshaykhobragade3112.github.io/Quiz-Application/
